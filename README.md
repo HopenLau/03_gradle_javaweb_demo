@@ -1,4 +1,4 @@
-# 02_maven_javaweb_demo
+# 03_gradle_javaweb_demo
 Gradle嘅JavaWeb
 
 该系统开发环境是基于：
